@@ -1,2 +1,2 @@
-# Nural_Networks
-Neural_Networks
+# Nural_Network
+Neural_Network
